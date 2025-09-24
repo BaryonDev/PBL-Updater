@@ -63,7 +63,7 @@ This collection represents the collaborative efforts of 8 dedicated teams, each 
 
 **⚡ Team Epsilon**  
 [![Team 5](https://img.shields.io/badge/Kelompok5-PBL-a55eea?style=for-the-badge&logo=github)](https://github.com/BaryonDev/Kelompok5-PBL)  
-*Performance Experts*
+*SMK NEGERI 8 Manado*
 
 </td>
 <td align="center" width="25%">

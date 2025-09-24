@@ -31,21 +31,21 @@ This collection represents the collaborative efforts of 8 dedicated teams, each 
 <tr>
 <td align="center" width="25%">
 
-**🥇 Team Alpha**  
+**👾 Team Alpha**  
 [![Team 1](https://img.shields.io/badge/Kelompok1-PBL-ff6b6b?style=for-the-badge&logo=github)](https://github.com/BaryonDev/Kelompok1-PBL)  
 *Innovation Leaders*
 
 </td>
 <td align="center" width="25%">
 
-**🥈 Team Beta**  
+**👁️ Team Beta**  
 [![Team 2](https://img.shields.io/badge/Kelompok2-PBL-4ecdc4?style=for-the-badge&logo=github)](https://github.com/BaryonDev/Kelompok2-PBL)  
 *Tech Pioneers*
 
 </td>
 <td align="center" width="25%">
 
-**🥉 Team Gamma**  
+**😎 Team Gamma**  
 [![Team 3](https://img.shields.io/badge/Kelompok3-PBL-45b7d1?style=for-the-badge&logo=github)](https://github.com/BaryonDev/Kelompok3-PBL)  
 *Solution Architects*
 

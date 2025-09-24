@@ -77,7 +77,7 @@ This collection represents the collaborative efforts of 8 dedicated teams, each 
 
 **🚀 Team Eta**  
 [![Team 7](https://img.shields.io/badge/Kelompok7-PBL-fd79a8?style=for-the-badge&logo=github)](https://github.com/BaryonDev/Kelompok7-PBL)  
-*DevOps Engineers*
+*SMP Katolik Ft. Don bosco Manado*
 
 </td>
 <td align="center" width="25%">

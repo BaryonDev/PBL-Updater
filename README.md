@@ -40,21 +40,21 @@ This collection represents the collaborative efforts of 8 dedicated teams, each 
 
 **👁️ Team Beta**  
 [![Team 2](https://img.shields.io/badge/Kelompok2-PBL-4ecdc4?style=for-the-badge&logo=github)](https://github.com/BaryonDev/Kelompok2-PBL)  
-*Tech Pioneers*
+*PT. Bahari Tirta Jaya Cab. Lolak*
 
 </td>
 <td align="center" width="25%">
 
 **😎 Team Gamma**  
 [![Team 3](https://img.shields.io/badge/Kelompok3-PBL-45b7d1?style=for-the-badge&logo=github)](https://github.com/BaryonDev/Kelompok3-PBL)  
-*Solution Architects*
+*SMA Negeri 10 Manado*
 
 </td>
 <td align="center" width="25%">
 
 **🔥 Team Delta**  
 [![Team 4](https://img.shields.io/badge/Kelompok4-PBL-f9ca24?style=for-the-badge&logo=github)](https://github.com/BaryonDev/Kelompok4-PBL)  
-*Code Masters*
+*PPA ID 0116 Filadelfia Tontalete*
 
 </td>
 </tr>
@@ -70,7 +70,7 @@ This collection represents the collaborative efforts of 8 dedicated teams, each 
 
 **🌟 Team Zeta**  
 [![Team 6](https://img.shields.io/badge/Kelompok6-PBL-26de81?style=for-the-badge&logo=github)](https://github.com/BaryonDev/Kelompok6-PBL)  
-*UI/UX Specialists*
+*UD.ARIFRI*
 
 </td>
 <td align="center" width="25%">
@@ -84,7 +84,7 @@ This collection represents the collaborative efforts of 8 dedicated teams, each 
 
 **💎 Team Theta**  
 [![Team 8](https://img.shields.io/badge/Kelompok8-PBL-2d3436?style=for-the-badge&logo=github)](https://github.com/BaryonDev/Kelompok8-PBL)  
-*Quality Assurance*
+*BKN Kanreg MAnado*
 
 </td>
 </tr>

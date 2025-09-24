@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Project Banner](https://raw.githubusercontent.com/BaryonDev/PBL-Updater/main/assets/banner.png)
+![Project Banner](https://raw.githubusercontent.com/BaryonDev/PBL-Updater/main/assets/shish.png)
 
 ### **Official Release**
 *The Future of Development • Now Building*

@@ -11,7 +11,6 @@
 
 [![Teams](https://img.shields.io/badge/🔥_TEAMS-8-FF6B6B.svg?style=for-the-badge&labelColor=000000)](https://github.com/BaryonDev)
 [![Status](https://img.shields.io/badge/⚡_STATUS-ACTIVE-00FF88.svg?style=for-the-badge&labelColor=000000)](https://github.com/BaryonDev)
-[![License](https://img.shields.io/badge/📋_LICENSE-MIT-FFD93D.svg?style=for-the-badge&labelColor=000000)](LICENSE)
 [![Contributors](https://img.shields.io/badge/👥_DEVELOPERS-25-6C5CE7.svg?style=for-the-badge&labelColor=000000)](https://github.com/BaryonDev)
 
 <br>

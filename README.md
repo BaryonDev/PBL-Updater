@@ -161,18 +161,6 @@
 
 </div>
 
-
-
-<div align="center">
-
-### 🏃‍♂️ **DEVELOPMENT VELOCITY**
-
-[![Development Activity](https://img.shields.io/badge/🚀_COMMITS-500+-FF6B6B?style=for-the-badge&labelColor=000000)]()
-[![Code Quality](https://img.shields.io/badge/⭐_QUALITY-PREMIUM-FFD93D?style=for-the-badge&labelColor=000000)]()
-[![Innovation Score](https://img.shields.io/badge/💡_INNOVATION-MAX-6C5CE7?style=for-the-badge&labelColor=000000)]()
-
-</div>
-
 ---
 
 ## 🛠️ **TECH STACK ARSENAL**
@@ -189,8 +177,6 @@
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
 
 </div>
-
----
 
 <br>
 

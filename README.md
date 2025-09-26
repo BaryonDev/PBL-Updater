@@ -26,8 +26,8 @@
 ### 🎮 **TEAM ALPHA**
 [![Kelompok1](https://img.shields.io/badge/EXPLORE-PROJECT-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/BaryonDev/Kelompok1-PBL)
 
-**🎯 Nintau apasto**  
-*Nda bkirim nama instansi*
+**🎯 GOR BADMINTON BUHA**  
+*Sport Hall Service*
 
 </td>
 <td align="center" width="25%">

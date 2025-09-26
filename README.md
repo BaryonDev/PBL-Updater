@@ -27,7 +27,7 @@
 [![Kelompok1](https://img.shields.io/badge/EXPLORE-PROJECT-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/BaryonDev/Kelompok1-PBL)
 
 **🎯 Nintau apasto**  
-*Pioneering breakthrough solutions*
+*Nda bkirim nama instansi*
 
 </td>
 <td align="center" width="25%">

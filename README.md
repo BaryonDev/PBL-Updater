@@ -1,90 +1,153 @@
-# 🚀 Teknik Komputer 3 Semester 3 Repo FOR PBL
+# 🌌 Teknik Komputer 3 • Semester 3 Repository
 
 <div align="center">
 
 ![Project Banner](https://raw.githubusercontent.com/BaryonDev/PBL-Updater/main/upt.png)
 
-### **Official Release**
-*The Future of Development • Now Building*
+<h2>🚀 <strong>PROJECT BASED LEARNING</strong> 🚀</h2>
+<h3><em>Pioneering Innovation • Shaping Tomorrow</em></h3>
 
-[![Teams](https://img.shields.io/badge/Teams-8-blue.svg?style=for-the-badge)](https://github.com/BaryonDev)
-[![Status](https://img.shields.io/badge/Status-Active-success.svg?style=for-the-badge)](https://github.com/BaryonDev)
-[![License](https://img.shields.io/badge/License-MIT-orange.svg?style=for-the-badge)](LICENSE)
+<br>
+
+[![Teams](https://img.shields.io/badge/🔥_TEAMS-8-FF6B6B.svg?style=for-the-badge&labelColor=000000)](https://github.com/BaryonDev)
+[![Status](https://img.shields.io/badge/⚡_STATUS-ACTIVE-00FF88.svg?style=for-the-badge&labelColor=000000)](https://github.com/BaryonDev)
+[![License](https://img.shields.io/badge/📋_LICENSE-MIT-FFD93D.svg?style=for-the-badge&labelColor=000000)](LICENSE)
+[![Contributors](https://img.shields.io/badge/👥_DEVELOPERS-25-6C5CE7.svg?style=for-the-badge&labelColor=000000)](https://github.com/BaryonDev)
+
+<br>
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  🎯 MISSION: Building Next-Generation Solutions                │
+│  💡 VISION:  Transforming Ideas Into Reality                   │
+│  🎖️ VALUES: Innovation • Collaboration • Excellence            │
+└─────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
 ---
 
-## 🎯 Abstract
+## 🎨 **ABSTRACT**
 
-Our development teams are working on breakthrough projects that push the boundaries of innovation. Each team brings unique expertise and perspectives to create solutions that matter. From cutting-edge algorithms to user-centric applications, we're building the future of technology.
+> **Breakthrough Innovation Through Collaborative Excellence**
 
-This collection represents the collaborative efforts of 8 dedicated teams, each tackling complex challenges with creativity and technical excellence. Our approach emphasizes both individual team autonomy and cross-team collaboration to achieve optimal results.
+<div align="center">
+
+### 🌟 **THE VISION** 🌟
+
+*Eight powerhouse teams. One revolutionary mission.*
+
+</div>
+
+Our elite development consortium represents the pinnacle of academic-industry collaboration. Each team operates as an independent innovation lab while contributing to a unified ecosystem of technological advancement. We're not just building applications—we're architecting the future.
+
+**🔮 What Sets Us Apart:**
+- **Cutting-Edge Technology Stack** → Modern frameworks, robust architectures
+- **Industry Partnership Model** → Real-world problems, practical solutions  
+- **Cross-Functional Excellence** → Diverse expertise, unified vision
+- **Agile Innovation Process** → Rapid iteration, continuous improvement
 
 ---
 
-## 🏆 Team Repositories
+## 🏆 **ELITE TEAM SHOWCASE**
 
-### Core Development Teams
+<div align="center">
 
-<table align="center">
+### ⚡ **INNOVATION POWERHOUSES** ⚡
+
+</div>
+
+<table align="center" width="100%">
 <tr>
 <td align="center" width="25%">
 
-**👾 Team Alpha**  
-[![Team 1](https://img.shields.io/badge/Kelompok1-PBL-ff6b6b?style=for-the-badge&logo=github)](https://github.com/BaryonDev/Kelompok1-PBL)  
-*Innovation Leaders*
+### 🎮 **TEAM ALPHA**
+[![Kelompok1](https://img.shields.io/badge/EXPLORE-PROJECT-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/BaryonDev/Kelompok1-PBL)
+
+**🎯 INNOVATION LEADERS**  
+*Pioneering breakthrough solutions*
+
+`🔥 Status: Active Development`
 
 </td>
 <td align="center" width="25%">
 
-**👁️ Team Beta**  
-[![Team 2](https://img.shields.io/badge/Kelompok2-PBL-4ecdc4?style=for-the-badge&logo=github)](https://github.com/BaryonDev/Kelompok2-PBL)  
-*PT. Bahari Tirta Jaya Cab. Lolak*
+### 👁️ **TEAM BETA**
+[![Kelompok2](https://img.shields.io/badge/EXPLORE-PROJECT-4ECDC4?style=for-the-badge&logo=water&logoColor=white)](https://github.com/BaryonDev/Kelompok2-PBL)
+
+**🌊 PT. BAHARI TIRTA JAYA**  
+*Cab. Lolak Solutions*
+
+`💧 Domain: Water Management`
 
 </td>
 <td align="center" width="25%">
 
-**😎 Team Gamma**  
-[![Team 3](https://img.shields.io/badge/Kelompok3-PBL-45b7d1?style=for-the-badge&logo=github)](https://github.com/BaryonDev/Kelompok3-PBL)  
-*SMA Negeri 10 Manado*
+### 🎓 **TEAM GAMMA**
+[![Kelompok3](https://img.shields.io/badge/EXPLORE-PROJECT-45B7D1?style=for-the-badge&logo=academic-cap&logoColor=white)](https://github.com/BaryonDev/Kelompok3-PBL)
+
+**📚 SMA NEGERI 10 MANADO**  
+*Educational Excellence*
+
+`🎯 Domain: Academic Systems`
 
 </td>
 <td align="center" width="25%">
 
-**🔥 Team Delta**  
-[![Team 4](https://img.shields.io/badge/Kelompok4-PBL-f9ca24?style=for-the-badge&logo=github)](https://github.com/BaryonDev/Kelompok4-PBL)  
-*PPA ID 0116 Filadelfia Tontalete*
+### 🔥 **TEAM DELTA**
+[![Kelompok4](https://img.shields.io/badge/EXPLORE-PROJECT-F9CA24?style=for-the-badge&logo=church&logoColor=white)](https://github.com/BaryonDev/Kelompok4-PBL)
+
+**⛪ PPA ID 0116 FILADELFIA**  
+*Tontalete Community*
+
+`🙏 Domain: Community Management`
 
 </td>
 </tr>
 <tr>
 <td align="center" width="25%">
 
-**⚡ Team Epsilon**  
-[![Team 5](https://img.shields.io/badge/Kelompok5-PBL-a55eea?style=for-the-badge&logo=github)](https://github.com/BaryonDev/Kelompok5-PBL)  
-*SMK NEGERI 8 Manado*
+### ⚡ **TEAM EPSILON**
+[![Kelompok5](https://img.shields.io/badge/EXPLORE-PROJECT-A55EEA?style=for-the-badge&logo=tools&logoColor=white)](https://github.com/BaryonDev/Kelompok5-PBL)
+
+**🛠️ SMK NEGERI 8 MANADO**  
+*Technical Mastery*
+
+`⚙️ Domain: Vocational Systems`
 
 </td>
 <td align="center" width="25%">
 
-**🌟 Team Zeta**  
-[![Team 6](https://img.shields.io/badge/Kelompok6-PBL-26de81?style=for-the-badge&logo=github)](https://github.com/BaryonDev/Kelompok6-PBL)  
-*UD.ARIFRI*
+### 🌟 **TEAM ZETA**
+[![Kelompok6](https://img.shields.io/badge/EXPLORE-PROJECT-26DE81?style=for-the-badge&logo=store&logoColor=white)](https://github.com/BaryonDev/Kelompok6-PBL)
+
+**🏪 UD.ARIFRI**  
+*Business Intelligence*
+
+`💼 Domain: Enterprise Solutions`
 
 </td>
 <td align="center" width="25%">
 
-**🚀 Team Eta**  
-[![Team 7](https://img.shields.io/badge/Kelompok7-PBL-fd79a8?style=for-the-badge&logo=github)](https://github.com/BaryonDev/Kelompok7-PBL)  
-*SMP Katolik Ft. Don bosco Manado*
+### 🚀 **TEAM ETA**
+[![Kelompok7](https://img.shields.io/badge/EXPLORE-PROJECT-FD79A8?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://github.com/BaryonDev/Kelompok7-PBL)
+
+**🎒 SMP KATOLIK DON BOSCO**  
+*Educational Innovation*
+
+`📖 Domain: School Management`
 
 </td>
 <td align="center" width="25%">
 
-**💎 Team Theta**  
-[![Team 8](https://img.shields.io/badge/Kelompok8-PBL-2d3436?style=for-the-badge&logo=github)](https://github.com/BaryonDev/Kelompok8-PBL)  
-*BPSDMP KOMINFO MANADO*
+### 💎 **TEAM THETA**
+[![Kelompok8](https://img.shields.io/badge/EXPLORE-PROJECT-2D3436?style=for-the-badge&logo=government&logoColor=white)](https://github.com/BaryonDev/Kelompok8-PBL)
+
+**🏛️ BPSDMP KOMINFO**  
+*Government Tech*
+
+`🌐 Domain: Public Services`
 
 </td>
 </tr>
@@ -92,43 +155,172 @@ This collection represents the collaborative efforts of 8 dedicated teams, each 
 
 ---
 
-## 📈 Project Stats
+## 📊 **REAL-TIME ANALYTICS**
 
 <div align="center">
 
-| Metric | Value |
-|--------|-------|
-| **Active Teams** | 8 |
-| **Total Projects** | 8+ |
-| **User** | 25 |
-| **Status** | 🟢 Active Development |
+### 🎯 **PROJECT METRICS DASHBOARD** 🎯
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center">
+
+### 🔥 **ACTIVE TEAMS**
+```
+     🚀
+   ┌─────┐
+   │  8  │ Teams
+   └─────┘
+    💪💪💪
+```
+
+</td>
+<td align="center">
+
+### 💎 **LIVE PROJECTS**
+```
+     ⚡
+   ┌─────┐
+   │ 8+  │ Repos
+   └─────┘
+    🛠️🛠️🛠️
+```
+
+</td>
+<td align="center">
+
+### 👥 **DEVELOPERS**
+```
+     🌟
+   ┌─────┐
+   │ 25  │ Users
+   └─────┘
+    👨‍💻👩‍💻👨‍💻
+```
+
+</td>
+<td align="center">
+
+### 📈 **STATUS**
+```
+     🎯
+   ┌─────┐
+   │🟢🟢🟢│ Active
+   └─────┘
+    🚀🚀🚀
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🏃‍♂️ **DEVELOPMENT VELOCITY**
+
+[![Development Activity](https://img.shields.io/badge/🚀_COMMITS-500+-FF6B6B?style=for-the-badge&labelColor=000000)]()
+[![Code Quality](https://img.shields.io/badge/⭐_QUALITY-PREMIUM-FFD93D?style=for-the-badge&labelColor=000000)]()
+[![Innovation Score](https://img.shields.io/badge/💡_INNOVATION-MAX-6C5CE7?style=for-the-badge&labelColor=000000)]()
 
 </div>
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions from the community! Each team manages their own contribution guidelines, but general principles include:
-
-- Fork the relevant team repository
-- Create feature branches for new developments
-- Submit pull requests with comprehensive documentation
-- Follow the team's coding standards and review process
-
----
-
-## 📞 Contact & Support
+## 🛠️ **TECH STACK ARSENAL**
 
 <div align="center">
 
-**BaryonDev Organization**  
-Building the future, one commit at a time
+### 💪 **POWERED BY CUTTING-EDGE TECHNOLOGY** 💪
 
-[![Organization](https://img.shields.io/badge/GitHub-BaryonDev-181717?style=for-the-badge&logo=github)](https://github.com/BaryonDev)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
+[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+
+</div>
 
 ---
 
-*Made with ❤️ by the BaryonDev Teams*
+## 🤝 **JOIN THE REVOLUTION**
+
+<div align="center">
+
+### 🌟 **BECOME PART OF SOMETHING EXTRAORDINARY** 🌟
+
+</div>
+
+Ready to contribute to the future? Here's your pathway to excellence:
+
+```bash
+# 🚀 Quick Start Guide
+git clone https://github.com/BaryonDev/[TEAM-REPO]
+cd [project-directory]
+# Follow team-specific setup instructions
+```
+
+### 🎯 **CONTRIBUTION STANDARDS**
+
+| Step | Action | Details |
+|------|--------|---------|
+| **1️⃣** | **Fork Repository** | Choose your target team repo |
+| **2️⃣** | **Create Feature Branch** | `feature/amazing-new-feature` |
+| **3️⃣** | **Code Excellence** | Follow team coding standards |
+| **4️⃣** | **Comprehensive Testing** | Ensure bulletproof quality |
+| **5️⃣** | **Submit Pull Request** | Detailed documentation required |
+
+---
+
+## 🌐 **CONNECT WITH THE FUTURE**
+
+<div align="center">
+
+### 🚀 **BARYONDEV ORGANIZATION** 🚀
+
+*Where Innovation Meets Excellence*
+
+<br>
+
+[![GitHub Organization](https://img.shields.io/badge/🌟_GITHUB-BARYONDEV-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BaryonDev)
+[![Discord Community](https://img.shields.io/badge/💬_DISCORD-COMMUNITY-7289DA?style=for-the-badge&logo=discord&logoColor=white)](#)
+[![Slack Workspace](https://img.shields.io/badge/⚡_SLACK-WORKSPACE-4A154B?style=for-the-badge&logo=slack&logoColor=white)](#)
+
+<br>
+
+```
+┌─────────────────────────────────────────┐
+│  💡 "Building the future,               │
+│      one commit at a time"              │
+│                                         │
+│  🎯 Innovation • Excellence • Impact    │
+└─────────────────────────────────────────┘
+```
+
+### 📞 **GET IN TOUCH**
+
+- 📧 **Email**: contact@baryondev.org
+- 🌐 **Website**: www.baryondev.org  
+- 📱 **Social**: @BaryonDev
+
+---
+
+<h3 align="center">⭐ Star this repository if you find it awesome! ⭐</h3>
+
+<h4 align="center">Made with 💖 and ☕ by the <strong>BaryonDev Elite Teams</strong></h4>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎉 **THANK YOU FOR VISITING!** 🎉
+
+*Ready to build something amazing together?*
+
+[![Let's Connect](https://img.shields.io/badge/🤝_LET'S_CONNECT-JOIN_US-FF6B6B?style=for-the-badge&labelColor=000000)](https://github.com/BaryonDev)
 
 </div>

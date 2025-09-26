@@ -29,8 +29,6 @@
 **🎯 Nintau apasto**  
 *Pioneering breakthrough solutions*
 
-`🔥 Status: Active Development`
-
 </td>
 <td align="center" width="25%">
 
@@ -39,8 +37,6 @@
 
 **🌊 PT. BAHARI TIRTA JAYA**  
 *Cab. Lolak Solutions*
-
-`💧 Domain: Water Management`
 
 </td>
 <td align="center" width="25%">
@@ -51,8 +47,6 @@
 **📚 SMA NEGERI 10 MANADO**  
 *Educational Excellence*
 
-`🎯 Domain: Academic Systems`
-
 </td>
 <td align="center" width="25%">
 
@@ -61,8 +55,6 @@
 
 **⛪ PPA ID 0116 FILADELFIA**  
 *Tontalete Community*
-
-`🙏 Domain: Community Management`
 
 </td>
 </tr>
@@ -75,8 +67,6 @@
 **🛠️ SMK NEGERI 8 MANADO**  
 *Technical Mastery*
 
-`⚙️ Domain: Vocational Systems`
-
 </td>
 <td align="center" width="25%">
 
@@ -85,8 +75,6 @@
 
 **🏪 UD.ARIFRI**  
 *Business Intelligence*
-
-`💼 Domain: Enterprise Solutions`
 
 </td>
 <td align="center" width="25%">
@@ -97,8 +85,6 @@
 **🎒 SMP KATOLIK DON BOSCO**  
 *Educational Innovation*
 
-`📖 Domain: School Management`
-
 </td>
 <td align="center" width="25%">
 
@@ -107,8 +93,6 @@
 
 **🏛️ BPSDMP KOMINFO**  
 *Government Tech*
-
-`🌐 Domain: Public Services`
 
 </td>
 </tr>

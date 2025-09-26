@@ -164,7 +164,9 @@
 
 
 </div>
-# Tutorial Push dan Update Data ke GitHub Repository Private
+
+<hr>
+## Tutorial Push dan Update Data ke GitHub Repository Private
 
 > Repository: https://github.com/BaryonDev/Kelompok1-PBL  
 > Status: Private Repository (Hanya Kolaborator yang Diundang)

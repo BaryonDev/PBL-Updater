@@ -166,7 +166,7 @@
 </div>
 
 <hr>
-## Tutorial Push dan Update Data ke GitHub Repository Private
+# Tutorial Push dan Update Data ke GitHub Repository Private sebagai contoh
 
 > Repository: https://github.com/BaryonDev/Kelompok1-PBL  
 > Status: Private Repository (Hanya Kolaborator yang Diundang)

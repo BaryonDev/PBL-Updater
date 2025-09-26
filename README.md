@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Project Banner](https://raw.githubusercontent.com/BaryonDev/PBL-Updater/main/assets/ikansd.png)
+![Project Banner](https://raw.githubusercontent.com/BaryonDev/PBL-Updater/main/upt.png)
 
 ### **Official Release**
 *The Future of Development • Now Building*

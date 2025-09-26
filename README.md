@@ -194,12 +194,6 @@
 
 <br>
 
-[![GitHub Organization](https://img.shields.io/badge/🌟_GITHUB-BARYONDEV-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BaryonDev)
-[![Discord Community](https://img.shields.io/badge/💬_DISCORD-COMMUNITY-7289DA?style=for-the-badge&logo=discord&logoColor=white)](#)
-[![Slack Workspace](https://img.shields.io/badge/⚡_SLACK-WORKSPACE-4A154B?style=for-the-badge&logo=slack&logoColor=white)](#)
-
-<br>
-
 
 </div>
 

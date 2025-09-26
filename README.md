@@ -120,15 +120,47 @@
 
 </div>
 
-## 🚀 Dashboard Project
+# 📊 Project Dashboard
 
 <div align="center">
 
-| 🔥 **Active Teams** | 💎 **Live Projects** | 👥 **Developers** | 📈 **Status** |
-|---------------------|----------------------|------------------|---------------|
-| 🚀 <br> **8 Teams** <br> 💪💪💪 | ⚡ <br> **8+ Repos** <br> 🛠️🛠️🛠️ | 🌟 <br> **25 Users** <br> 👨‍💻👩‍💻👨‍💻 | 🎯 <br> **Active** <br> 🟢🟢🟢🚀 |
+<table>
+<tr>
+<td width="200" align="center">
+
+### 🔥 Active Teams  
+**8 Teams**  
+🚀💪  
+
+</td>
+<td width="200" align="center">
+
+### 💎 Live Projects  
+**8+ Repos**  
+🛠️⚡  
+
+</td>
+</tr>
+<tr>
+<td width="200" align="center">
+
+### 👥 Developers  
+**25 Users**  
+👨‍💻👩‍💻  
+
+</td>
+<td width="200" align="center">
+
+### 📈 Status  
+**Active**  
+🟢🎯  
+
+</td>
+</tr>
+</table>
 
 </div>
+
 
 
 <div align="center">

@@ -57,16 +57,100 @@ Our elite development consortium represents the pinnacle of academic-industry co
 
 </div>
 
-| Team | Status | Domain |
-|------|--------|--------|
-| **TEAM ALPHA** | 🔥 Active Development | - |
-| **TEAM BETA** | 💧 Active | Water Management |
-| **TEAM GAMMA** | 🎯 Active | Academic Systems |
-| **TEAM DELTA** | 🙏 Active | Community Management |
-| **TEAM EPSILON** | ⚙️ Active | Vocational Systems |
-| **TEAM ZETA** | 💼 Active | Enterprise Solutions |
-| **TEAM ETA** | 📖 Active | School Management |
-| **TEAM THETA** | 🌐 Active | Public Services |
+<table align="center" width="100%">
+<tr>
+<td align="center" width="25%">
+
+### 🎮 **TEAM ALPHA**
+[![Kelompok1](https://img.shields.io/badge/EXPLORE-PROJECT-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/BaryonDev/Kelompok1-PBL)
+
+**🎯 INNOVATION LEADERS**  
+*Pioneering breakthrough solutions*
+
+`🔥 Status: Active Development`
+
+</td>
+<td align="center" width="25%">
+
+### 👁️ **TEAM BETA**
+[![Kelompok2](https://img.shields.io/badge/EXPLORE-PROJECT-4ECDC4?style=for-the-badge&logo=water&logoColor=white)](https://github.com/BaryonDev/Kelompok2-PBL)
+
+**🌊 PT. BAHARI TIRTA JAYA**  
+*Cab. Lolak Solutions*
+
+`💧 Domain: Water Management`
+
+</td>
+<td align="center" width="25%">
+
+### 🎓 **TEAM GAMMA**
+[![Kelompok3](https://img.shields.io/badge/EXPLORE-PROJECT-45B7D1?style=for-the-badge&logo=academic-cap&logoColor=white)](https://github.com/BaryonDev/Kelompok3-PBL)
+
+**📚 SMA NEGERI 10 MANADO**  
+*Educational Excellence*
+
+`🎯 Domain: Academic Systems`
+
+</td>
+<td align="center" width="25%">
+
+### 🔥 **TEAM DELTA**
+[![Kelompok4](https://img.shields.io/badge/EXPLORE-PROJECT-F9CA24?style=for-the-badge&logo=church&logoColor=white)](https://github.com/BaryonDev/Kelompok4-PBL)
+
+**⛪ PPA ID 0116 FILADELFIA**  
+*Tontalete Community*
+
+`🙏 Domain: Community Management`
+
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+
+### ⚡ **TEAM EPSILON**
+[![Kelompok5](https://img.shields.io/badge/EXPLORE-PROJECT-A55EEA?style=for-the-badge&logo=tools&logoColor=white)](https://github.com/BaryonDev/Kelompok5-PBL)
+
+**🛠️ SMK NEGERI 8 MANADO**  
+*Technical Mastery*
+
+`⚙️ Domain: Vocational Systems`
+
+</td>
+<td align="center" width="25%">
+
+### 🌟 **TEAM ZETA**
+[![Kelompok6](https://img.shields.io/badge/EXPLORE-PROJECT-26DE81?style=for-the-badge&logo=store&logoColor=white)](https://github.com/BaryonDev/Kelompok6-PBL)
+
+**🏪 UD.ARIFRI**  
+*Business Intelligence*
+
+`💼 Domain: Enterprise Solutions`
+
+</td>
+<td align="center" width="25%">
+
+### 🚀 **TEAM ETA**
+[![Kelompok7](https://img.shields.io/badge/EXPLORE-PROJECT-FD79A8?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://github.com/BaryonDev/Kelompok7-PBL)
+
+**🎒 SMP KATOLIK DON BOSCO**  
+*Educational Innovation*
+
+`📖 Domain: School Management`
+
+</td>
+<td align="center" width="25%">
+
+### 💎 **TEAM THETA**
+[![Kelompok8](https://img.shields.io/badge/EXPLORE-PROJECT-2D3436?style=for-the-badge&logo=government&logoColor=white)](https://github.com/BaryonDev/Kelompok8-PBL)
+
+**🏛️ BPSDMP KOMINFO**  
+*Government Tech*
+
+`🌐 Domain: Public Services`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -205,26 +289,6 @@ cd [project-directory]
 
 <br>
 
-```
-┌─────────────────────────────────────────┐
-│  💡 "Building the future,               │
-│      one commit at a time"              │
-│                                         │
-│  🎯 Innovation • Excellence • Impact    │
-└─────────────────────────────────────────┘
-```
-
-### 📞 **GET IN TOUCH**
-
-- 📧 **Email**: contact@baryondev.org
-- 🌐 **Website**: www.baryondev.org  
-- 📱 **Social**: @BaryonDev
-
----
-
-<h3 align="center">⭐ Star this repository if you find it awesome! ⭐</h3>
-
-<h4 align="center">Made with 💖 and ☕ by the <strong>BaryonDev Elite Teams</strong></h4>
 
 </div>
 

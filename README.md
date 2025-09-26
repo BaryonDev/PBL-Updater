@@ -120,58 +120,16 @@
 
 </div>
 
-<table align="center">
-<tr>
-<td align="center">
+## 🚀 Dashboard Project
 
-### 🔥 **ACTIVE TEAMS**
-```
-     🚀
-   ┌─────┐
-   │  8  │ Teams
-   └─────┘
-    💪💪💪
-```
+<div align="center">
 
-</td>
-<td align="center">
+| 🔥 **Active Teams** | 💎 **Live Projects** | 👥 **Developers** | 📈 **Status** |
+|---------------------|----------------------|------------------|---------------|
+| 🚀 <br> **8 Teams** <br> 💪💪💪 | ⚡ <br> **8+ Repos** <br> 🛠️🛠️🛠️ | 🌟 <br> **25 Users** <br> 👨‍💻👩‍💻👨‍💻 | 🎯 <br> **Active** <br> 🟢🟢🟢🚀 |
 
-### 💎 **LIVE PROJECTS**
-```
-     ⚡
-   ┌─────┐
-   │ 8+  │ Repos
-   └─────┘
-    🛠️🛠️🛠️
-```
+</div>
 
-</td>
-<td align="center">
-
-### 👥 **DEVELOPERS**
-```
-     🌟
-   ┌─────┐
-   │ 25  │ Users
-   └─────┘
-    👨‍💻👩‍💻👨‍💻
-```
-
-</td>
-<td align="center">
-
-### 📈 **STATUS**
-```
-     🎯
-   ┌─────┐
-   │🟢🟢🟢│ Active
-   └─────┘
-    🚀🚀🚀
-```
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 

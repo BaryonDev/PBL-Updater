@@ -114,10 +114,6 @@
 </tr>
 </table>
 
----
-
-## 📊 **REAL-TIME ANALYTICS**
-
 <div align="center">
 
 ### 🎯 **PROJECT METRICS DASHBOARD** 🎯

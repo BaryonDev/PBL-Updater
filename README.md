@@ -164,6 +164,289 @@
 
 
 </div>
+# Tutorial Push dan Update Data ke GitHub Repository Private
+
+> Repository: https://github.com/BaryonDev/Kelompok1-PBL  
+> Status: Private Repository (Hanya Kolaborator yang Diundang)
+
+## 📋 Daftar Isi
+- [Persyaratan Awal](#persyaratan-awal)
+- [Setup Git dan GitHub](#setup-git-dan-github)
+- [Clone Repository](#clone-repository)
+- [Workflow Dasar](#workflow-dasar)
+- [Push Pertama Kali](#push-pertama-kali)
+- [Update dan Sinkronisasi](#update-dan-sinkronisasi)
+- [Tips dan Best Practices](#tips-dan-best-practices)
+- [Troubleshooting](#troubleshooting)
+
+## 🚀 Persyaratan Awal
+
+### 1. Akses Repository
+- Pastikan Anda sudah ditambahkan sebagai **collaborator** oleh owner repository
+- Cek email untuk invitation atau langsung ke: https://github.com/BaryonDev/Kelompok1-PBL
+- Accept invitation dari repository
+
+### 2. Tools yang Dibutuhkan
+- Git (Download dari: https://git-scm.com/)
+- Text editor/IDE (VS Code, Sublime, dll)
+- Akun GitHub yang sudah terdaftar
+
+## ⚙️ Setup Git dan GitHub
+
+### 1. Konfigurasi Git
+```bash
+# Set username dan email (gunakan yang sama dengan GitHub)
+git config --global user.name "Nama Anda"
+git config --global user.email "email@anda.com"
+
+# Verifikasi konfigurasi
+git config --list
+```
+
+### 2. Setup Authentication
+
+#### Opsi A: Personal Access Token (Recommended)
+1. Buka GitHub → Settings → Developer settings → Personal access tokens
+2. Generate new token (classic)
+3. Pilih scope: `repo` (untuk private repository)
+4. Copy token dan simpan di tempat aman
+
+#### Opsi B: SSH Key
+```bash
+# Generate SSH key
+ssh-keygen -t rsa -b 4096 -C "email@anda.com"
+
+# Add SSH key to GitHub
+cat ~/.ssh/id_rsa.pub
+# Copy output dan paste ke GitHub → Settings → SSH Keys
+```
+
+## 📥 Clone Repository
+
+### 1. Clone ke Local
+```bash
+# Menggunakan HTTPS
+git clone https://github.com/BaryonDev/Kelompok1-PBL.git
+
+# Atau menggunakan SSH (jika sudah setup)
+git clone git@github.com:BaryonDev/Kelompok1-PBL.git
+
+# Masuk ke folder project
+cd Kelompok1-PBL
+```
+
+### 2. Verifikasi Connection
+```bash
+# Cek remote repository
+git remote -v
+
+# Test connection
+git fetch origin
+```
+
+## 🔄 Workflow Dasar
+
+### 1. Sebelum Mulai Bekerja (SELALU!)
+```bash
+# Pull update terbaru dari repository
+git pull origin main
+
+# Atau jika menggunakan branch master
+git pull origin master
+```
+
+### 2. Membuat Perubahan
+```bash
+# Cek status file
+git status
+
+# Add file yang ingin di-commit
+git add nama_file.txt        # Add file tertentu
+git add .                    # Add semua file yang berubah
+git add *.py                 # Add semua file Python
+
+# Commit perubahan
+git commit -m "Deskripsi perubahan yang jelas"
+```
+
+### 3. Push ke Repository
+```bash
+# Push ke branch utama
+git push origin main
+
+# Atau jika menggunakan master
+git push origin master
+```
+
+## 🚀 Push Pertama Kali
+
+### Jika Repository Kosong
+```bash
+# Inisialisasi git di folder project
+git init
+
+# Add remote repository
+git remote add origin https://github.com/BaryonDev/Kelompok1-PBL.git
+
+# Add semua file
+git add .
+
+# First commit
+git commit -m "Initial commit"
+
+# Push dengan set upstream
+git push -u origin main
+```
+
+### Jika Repository Sudah Ada Isi
+```bash
+# Clone repository terlebih dahulu
+git clone https://github.com/BaryonDev/Kelompok1-PBL.git
+cd Kelompok1-PBL
+
+# Tambah file baru
+# ... edit file ...
+
+# Add, commit, push
+git add .
+git commit -m "Menambah file baru"
+git push origin main
+```
+
+## 🔄 Update dan Sinkronisasi
+
+### 1. Mengambil Update Terbaru
+```bash
+# Fetch info terbaru tanpa merge
+git fetch origin
+
+# Pull dan merge sekaligus
+git pull origin main
+
+# Jika ada conflict, resolve manual lalu:
+git add .
+git commit -m "Resolve merge conflict"
+git push origin main
+```
+
+### 2. Cek History dan Status
+```bash
+# Lihat commit history
+git log --oneline
+
+# Lihat status working directory
+git status
+
+# Lihat perubahan yang belum di-commit
+git diff
+```
+
+## 💡 Tips dan Best Practices
+
+### 1. Commit Message yang Baik
+```bash
+# ✅ BAIK
+git commit -m "Add user authentication feature"
+git commit -m "Fix login validation bug"
+git commit -m "Update README with installation guide"
+
+# ❌ BURUK
+git commit -m "update"
+git commit -m "fix"
+git commit -m "changes"
+```
+
+### 2. Workflow Harian
+1. **Mulai kerja**: `git pull origin main`
+2. **Bekerja**: Edit file, test, debug
+3. **Commit**: `git add . && git commit -m "deskripsi"`
+4. **Push**: `git push origin main`
+5. **Selesai kerja**: Pastikan sudah push semua
+
+### 3. File yang Sebaiknya Diabaikan
+Buat file `.gitignore`:
+```
+# Dependencies
+node_modules/
+venv/
+__pycache__/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment
+.env
+```
+
+## 🛠️ Troubleshooting
+
+### 1. Authentication Failed
+```bash
+# Jika pakai HTTPS dan password tidak bisa
+# Gunakan Personal Access Token sebagai password
+
+# Atau update credential helper
+git config --global credential.helper store
+```
+
+### 2. Permission Denied
+- Pastikan Anda sudah ditambah sebagai collaborator
+- Cek invitation di email atau GitHub notifications
+- Contact repository owner jika masih bermasalah
+
+### 3. Merge Conflict
+```bash
+# Jika ada conflict saat pull
+git status                    # Lihat file yang conflict
+# Edit file, hapus conflict markers (<<<, ===, >>>)
+git add .
+git commit -m "Resolve merge conflict"
+git push origin main
+```
+
+### 4. Push Ditolak
+```bash
+# Jika push rejected, biasanya karena ada update baru
+git pull origin main          # Pull dulu
+# Resolve conflict jika ada
+git push origin main          # Push lagi
+```
+
+## 📞 Bantuan
+
+### Commands Penting
+```bash
+git status          # Cek status
+git log            # Lihat history
+git pull           # Ambil update
+git push           # Upload changes
+git add .          # Stage semua file
+git commit -m ""   # Commit dengan message
+git clone <url>    # Clone repository
+```
+
+### Jika Masih Bingung
+1. Tanya di group chat tim
+2. Cek dokumentasi: https://git-scm.com/doc
+3. Contact repository owner: [BaryonDev](https://github.com/BaryonDev)
+
+---
+
+**⚠️ Peringatan Penting:**
+- Repository ini **PRIVATE**, jangan share link atau invite orang lain
+- Selalu `git pull` sebelum mulai bekerja
+- Jangan commit file sensitive (password, API key, dll)
+- Komunikasi dengan tim sebelum merge branch utama
+
+**Happy Coding! 🎉**
 <hr>
 
 

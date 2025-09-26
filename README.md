@@ -84,7 +84,7 @@ This collection represents the collaborative efforts of 8 dedicated teams, each 
 
 **💎 Team Theta**  
 [![Team 8](https://img.shields.io/badge/Kelompok8-PBL-2d3436?style=for-the-badge&logo=github)](https://github.com/BaryonDev/Kelompok8-PBL)  
-*BKN Kanreg MAnado*
+*BPSDMP KOMINFO MANADO*
 
 </td>
 </tr>

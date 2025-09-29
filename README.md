@@ -38,12 +38,6 @@
 ### 🎮 **TEAM ALPHA** — GOR BADMINTON BUHA
 > *Revolutionizing Sport Hall Management*
 
-```yaml
-Domain: Sports & Recreation
-Tech: PHP • MySQL • Bootstrap
-Status: 🟢 Production Ready
-```
-
 <div align="center">
 
 [![Explore](https://img.shields.io/badge/EXPLORE_PROJECT-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/BaryonDev/Kelompok1-PBL)
@@ -60,12 +54,6 @@ Status: 🟢 Production Ready
 
 ### 👁️ **TEAM BETA** — PT. BAHARI TIRTA JAYA
 > *Water Distribution Excellence*
-
-```yaml
-Domain: Water Management
-Tech: JavaScript • PHP • MySQL
-Status: 🟢 Deployed
-```
 
 <div align="center">
 
@@ -87,12 +75,6 @@ Status: 🟢 Deployed
 ### 🎓 **TEAM GAMMA** — SMA NEGERI 10 MANADO
 > *Empowering Educational Excellence*
 
-```yaml
-Domain: Education
-Tech: HTML5 • CSS3 • JavaScript
-Status: 🟢 Active Development
-```
-
 <div align="center">
 
 [![Explore](https://img.shields.io/badge/EXPLORE_PROJECT-45B7D1?style=for-the-badge&logo=bookopen&logoColor=white)](https://github.com/BaryonDev/Kelompok3-PBL)
@@ -109,12 +91,6 @@ Status: 🟢 Active Development
 
 ### 🔥 **TEAM DELTA** — PPA ID 0116 FILADELFIA
 > *Community Management Platform*
-
-```yaml
-Domain: Community Services
-Tech: PHP • Bootstrap • MySQL
-Status: 🟢 Beta Testing
-```
 
 <div align="center">
 

@@ -213,7 +213,7 @@
 <td align="center" width="25%">
 <img src="https://img.icons8.com/color/96/000000/diamond.png" width="60"/>
 <h3>💎 Live Projects</h3>
-<h2 style="color: #6C5CE7;">8+</h2>
+<h2 style="color: #6C5CE7;">3</h2>
 <p><em>Production Ready</em></p>
 </td>
 <td align="center" width="25%">
@@ -221,12 +221,6 @@
 <h3>👥 Developers</h3>
 <h2 style="color: #00B894;">25+</h2>
 <p><em>Innovative Minds</em></p>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/graph.png" width="60"/>
-<h3>📈 Growth Rate</h3>
-<h2 style="color: #FDCB6E;">150%</h2>
-<p><em>Year Over Year</em></p>
 </td>
 </tr>
 </table>

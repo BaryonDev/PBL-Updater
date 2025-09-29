@@ -35,7 +35,8 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 **TEAM ALPHA** — GOR BADMINTON BUHA
+### 🎮 **TEAM ALPHA** — KELOMPOK 1
+**GOR BADMINTON BUHA**
 > *Revolutionizing Sport Hall Management*
 
 <div align="center">
@@ -52,7 +53,8 @@
 </td>
 <td width="50%" valign="top">
 
-### 👁️ **TEAM BETA** — PT. BAHARI TIRTA JAYA
+### 👁️ **TEAM BETA** — KELOMPOK 2
+**PT. BAHARI TIRTA JAYA**
 > *Water Distribution Excellence*
 
 <div align="center">
@@ -72,7 +74,8 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 **TEAM GAMMA** — SMA NEGERI 10 MANADO
+### 🎓 **TEAM GAMMA** — KELOMPOK 3
+**SMA NEGERI 10 MANADO**
 > *Empowering Educational Excellence*
 
 <div align="center">
@@ -95,7 +98,6 @@
 <div align="center">
 
 [![Explore](https://img.shields.io/badge/EXPLORE_PROJECT-F9CA24?style=for-the-badge&logo=church&logoColor=white)](https://github.com/BaryonDev/Kelompok4-PBL)
-[![Live](https://img.shields.io/badge/VIEW_LIVE-F9CA24?style=for-the-badge&logo=vercel&logoColor=white)](https://kelompok4-pbl.vercel.app/)
 
 </div>
 
@@ -111,6 +113,12 @@
 
 ### ⚡ **TEAM EPSILON** — SMK NEGERI 8 MANADO
 > *Technical Education Platform*
+
+```yaml
+Domain: Vocational Training
+Tech: Full Stack Development
+Status: 🟡 In Progress
+```
 
 <div align="center">
 
@@ -128,6 +136,12 @@
 
 ### 🌟 **TEAM ZETA** — UD.ARIFRI
 > *Business Intelligence Solutions*
+
+```yaml
+Domain: Retail & Commerce
+Tech: PHP • MySQL • Chart.js
+Status: 🟢 Production
+```
 
 <div align="center">
 
@@ -149,6 +163,12 @@
 ### 🚀 **TEAM ETA** — SMP KATOLIK DON BOSCO
 > *Next-Gen Education System*
 
+```yaml
+Domain: Junior High Education
+Tech: Modern Web Stack
+Status: 🟢 Active
+```
+
 <div align="center">
 
 [![Explore](https://img.shields.io/badge/EXPLORE_PROJECT-FD79A8?style=for-the-badge&logo=graduationcap&logoColor=white)](https://github.com/BaryonDev/Kelompok7-PBL)
@@ -165,6 +185,12 @@
 
 ### 💎 **TEAM THETA** — BPSDMP KOMINFO
 > *Government Tech Solutions*
+
+```yaml
+Domain: Public Services
+Tech: Enterprise Stack
+Status: 🟢 Government Ready
+```
 
 <div align="center">
 
@@ -206,7 +232,7 @@
 <td align="center" width="25%">
 <img src="https://img.icons8.com/color/96/000000/diamond.png" width="60"/>
 <h3>💎 Live Projects</h3>
-<h2 style="color: #6C5CE7;">2</h2>
+<h2 style="color: #6C5CE7;">8+</h2>
 <p><em>Production Ready</em></p>
 </td>
 <td align="center" width="25%">
@@ -214,6 +240,12 @@
 <h3>👥 Developers</h3>
 <h2 style="color: #00B894;">25+</h2>
 <p><em>Innovative Minds</em></p>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/graph.png" width="60"/>
+<h3>📈 Growth Rate</h3>
+<h2 style="color: #FDCB6E;">150%</h2>
+<p><em>Year Over Year</em></p>
 </td>
 </tr>
 </table>

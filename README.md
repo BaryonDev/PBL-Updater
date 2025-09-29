@@ -73,6 +73,8 @@ https://kelompok2-pbl.vercel.app/
 
 ### 🌟 **TEAM ZETA**
 [![Kelompok6](https://img.shields.io/badge/EXPLORE-PROJECT-26DE81?style=for-the-badge&logo=store&logoColor=white)](https://github.com/BaryonDev/Kelompok6-PBL)
+https://kelompok6-pbl.vercel.app/
+<br>
 
 **🏪 UD.ARIFRI**  
 *Business Intelligence*

@@ -34,7 +34,7 @@
 
 ### 👁️ **TEAM BETA**
 [![Kelompok2](https://img.shields.io/badge/EXPLORE-PROJECT-4ECDC4?style=for-the-badge&logo=water&logoColor=white)](https://github.com/BaryonDev/Kelompok2-PBL)
-
+https://kelompok2-pbl.vercel.app/
 **🌊 PT. BAHARI TIRTA JAYA**  
 *Cab. Lolak Solutions*
 

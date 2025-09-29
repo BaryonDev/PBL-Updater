@@ -112,12 +112,6 @@
 ### ⚡ **TEAM EPSILON** — SMK NEGERI 8 MANADO
 > *Technical Education Platform*
 
-```yaml
-Domain: Vocational Training
-Tech: Full Stack Development
-Status: 🟡 In Progress
-```
-
 <div align="center">
 
 [![Explore](https://img.shields.io/badge/EXPLORE_PROJECT-A55EEA?style=for-the-badge&logo=tools&logoColor=white)](https://github.com/BaryonDev/Kelompok5-PBL)
@@ -134,12 +128,6 @@ Status: 🟡 In Progress
 
 ### 🌟 **TEAM ZETA** — UD.ARIFRI
 > *Business Intelligence Solutions*
-
-```yaml
-Domain: Retail & Commerce
-Tech: PHP • MySQL • Chart.js
-Status: 🟢 Production
-```
 
 <div align="center">
 
@@ -161,12 +149,6 @@ Status: 🟢 Production
 ### 🚀 **TEAM ETA** — SMP KATOLIK DON BOSCO
 > *Next-Gen Education System*
 
-```yaml
-Domain: Junior High Education
-Tech: Modern Web Stack
-Status: 🟢 Active
-```
-
 <div align="center">
 
 [![Explore](https://img.shields.io/badge/EXPLORE_PROJECT-FD79A8?style=for-the-badge&logo=graduationcap&logoColor=white)](https://github.com/BaryonDev/Kelompok7-PBL)
@@ -183,12 +165,6 @@ Status: 🟢 Active
 
 ### 💎 **TEAM THETA** — BPSDMP KOMINFO
 > *Government Tech Solutions*
-
-```yaml
-Domain: Public Services
-Tech: Enterprise Stack
-Status: 🟢 Government Ready
-```
 
 <div align="center">
 

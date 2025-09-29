@@ -112,7 +112,8 @@
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ **TEAM EPSILON** — SMK NEGERI 8 MANADO
+### ⚡ **TEAM EPSILON** — KELOMPOK 5
+**SMK NEGERI 8 MANADO**
 > *Technical Education Platform*
 
 <div align="center">
@@ -129,7 +130,8 @@
 </td>
 <td width="50%" valign="top">
 
-### 🌟 **TEAM ZETA** — UD.ARIFRI
+### 🌟 **TEAM ZETA** — KELOMPOK 6
+**UD.ARIFRI**
 > *Business Intelligence Solutions*
 
 <div align="center">
@@ -149,7 +151,8 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 **TEAM ETA** — SMP KATOLIK DON BOSCO
+### 🚀 **TEAM ETA** — KELOMPOK 7
+**SMP KATOLIK DON BOSCO**
 > *Next-Gen Education System*
 
 <div align="center">
@@ -166,7 +169,8 @@
 </td>
 <td width="50%" valign="top">
 
-### 💎 **TEAM THETA** — BPSDMP KOMINFO
+### 💎 **TEAM THETA** — KELOMPOK 8
+**BPSDMP KOMINFO**
 > *Government Tech Solutions*
 
 <div align="center">

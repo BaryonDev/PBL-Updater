@@ -92,7 +92,8 @@
 </td>
 <td width="50%" valign="top">
 
-### 🔥 **TEAM DELTA** — PPA ID 0116 FILADELFIA
+### 🔥 **TEAM DELTA** — KELOMPOK 4
+**PPA ID 0116 FILADELFIA**
 > *Community Management Platform*
 
 <div align="center">

@@ -477,21 +477,7 @@ git log --oneline --graph --decorate --all
 
 <br/>
 
-## 🎯 **PROJECT ROADMAP**
 
-```mermaid
-graph LR
-    A[Q3 2025] -->|Development| B[Q4 2025]
-    B -->|Testing| C[Q1 2026]
-    C -->|Deployment| D[Q2 2026]
-    D -->|Maintenance| E[Ongoing]
-    
-    style A fill:#FF6B6B
-    style B fill:#4ECDC4
-    style C fill:#45B7D1
-    style D fill:#96CEB4
-    style E fill:#FFEAA7
-```
 
 <br/>
 

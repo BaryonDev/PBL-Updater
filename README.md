@@ -81,7 +81,7 @@
 <div align="center">
 
 [![Explore](https://img.shields.io/badge/EXPLORE_PROJECT-45B7D1?style=for-the-badge&logo=bookopen&logoColor=white)](https://github.com/BaryonDev/Kelompok3-PBL)
-
+[![Live](https://img.shields.io/badge/VIEW_LIVE-45B7D1?style=for-the-badge&logo=vercel&logoColor=white)](https://kelompok3-pbl.vercel.app/)
 </div>
 
 **Core Features:**

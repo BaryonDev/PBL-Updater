@@ -91,6 +91,7 @@
 
 ### 🔥 **TEAM DELTA** — PPA ID 0116 FILADELFIA
 > *Community Management Platform*
+> [![Live](https://img.shields.io/badge/VIEW_LIVE-00C9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://kelompok4-pbl.vercel.app/)
 
 <div align="center">
 
